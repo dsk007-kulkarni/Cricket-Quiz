@@ -1,0 +1,105 @@
+1)How many balls or deliveries are bowled in one over?
+1.9
+2.6
+3.4
+4.12
+2)If a batsman is out on the very first ball he faced, what is it called?
+1.Mallard Duck
+2.Golden Fleece
+3.Golden Duck
+4.Golden Elephant
+3)What does the term "LBW" stand for in cricket?
+1.Leg Before Wicket
+2.Launch Ball Wicketwards
+3.Lift Bat and Whack
+4.Let's Behave Wickedly
+4)What is the name given to the two people who officiate in a cricket match?
+1.Judges
+2.Trevor and Kevin
+3.Referees
+4.Umpires
+5)Which colour of cricket ball has not been used in an official cricket match?
+1.Red
+2.Pink
+3.White
+4.Green
+6)For which international team has batsman Mahela Jayawardene played for?
+1.Bangladesh
+2.India
+3.Sri Lanka
+4.Pakistan
+7)Who was the first batsmen to score 30 Test match centuries?
+1.Brian Lara
+2.Sachin Tendulkar
+3.Sunil Gavaskar
+4.Sir Don Bradman
+8)Who was the first bowler to take 530 Test match wickets?
+1.Shane Warne
+2.Muttiah Muralitharan
+3.Courtney Walsh
+4.Wasim Akram
+9)Who was voted man of the tournament at the 1999 World Cup held in England?
+1.Shane Warne
+2.Lance Klusener
+3.Geoff Allott
+4.Sachin Tendulkar
+10)Who was the first batsman to score 10,000 Test match runs?
+1.Sunil Gavaskar
+2.Brian Lara
+3.Allan Border
+4.Steve Waugh
+11)Who, in 2004, was named as the greatest West Indian player in history?
+1.Sir Viv Richards
+2.Clive Lloyd
+3.George Headley
+4.Sir Garfield Sobers
+12)Who was the first player to record 40 wins as captain?
+1.Steven Fleming
+2.Allan Border
+3.Steve Waugh
+4.Sourav Ganguly
+13)Who was the first bowler to take ten wickets in one Test match innings?
+1.Jim Laker
+2.Chaminda Vaas
+3.Anil Kumble
+4.Steve Harmison
+14)Which batsman ended with the highest strike rate in the Twenty20 World Cup 2007?
+1.Shahid Afridi
+2.Adam Gilchrist
+3.Yuvraj Singh
+4.Craig McMillan
+15)Who hit the most number of sixes in the 2007 20 overs World Cup?
+1.Yuvraj Singh
+2.Matthew Hayden
+3.Chris Gayle
+4.Craig McMillan
+16)Who was the Man of the Match of the thrilling finals of the Twenty20 World Cup 2007?
+1.Shahid Afridi
+2.Umar Gul
+3.Irfan Pathan
+4.Gautam Gambhir
+17)What is the maximum number of overs a bowler can bowl in T-20 cricket?
+1.5
+2.2
+3.6
+4.4
+18)How long is the duration of one innings of a T-20 match?
+1.60 minutes
+2.90 minutes
+3.20 minutes
+4.75 minutes
+19)In T-20 cricket, how many bouncers are allowed in any over?
+1.0
+2.2
+3.1
+4.3
+20)Which one of these is not a way you can be out in cricket?
+1.bowled
+2.bailed
+3.free hit
+4.stumped
+21)On what surface is cricket traditionally played?
+1.grass
+2.sand
+3.rubber
+4.ice
